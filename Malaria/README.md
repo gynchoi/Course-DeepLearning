@@ -1,6 +1,7 @@
 # Malaria Parasitized Cell Detecting Problem
 Written in May 2022  
 Yonsei Deep Learning Course Project (Advisor Prof. Park)  
+![Notion](https://coordinated-place-40c.notion.site/CV-Medical-Image-Classification-Malaria-Parasitized-Cell-7a26c8f9eadb4c1ebdec7d90fd08be8f)
 
 ## Purpose
 Classify Malaria infected cell images with Deep Learning
