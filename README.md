@@ -3,6 +3,6 @@
 - Model: Custom CNN (Acc: 0.91)
 
 ## 2. Pneumonia Detecting Problem
-- Tool:
-- Model
+- Tool: TensorFlow, PyTorch
+- Model: Custom CNN (Acc: 0.82)
 
